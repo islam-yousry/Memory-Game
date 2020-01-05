@@ -1,13 +1,14 @@
 # Memory-Game
 memory game implemented by html ,css,javascript
 
-1)	Project features:
+### 1)	Project features:
+
 -The game is provided in 6*6 size and it has random distribution for the cards every time.
 -There are two calculating systems [calculate the number of moves + timer].
 -The rating system gives you approximate rating according to the both upper values.
 -The game also has a colorful interface and 3d animated movements at flipping the cards and matching or dis-matching them.
 
-2)	How to play:
+### 2)	How to play:
 
 -Once you clicked the first card timer will start automatically.
 -you should find the matched pairs of cards with the smallest number of movements and in the shortest time as you could.
